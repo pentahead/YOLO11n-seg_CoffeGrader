@@ -1,0 +1,64 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+venv_export/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Dataset 
+# =========================
+data/
+datasets/
+dataset/
+coffee-beans-dataset-2-(segmentation)-2/
+*.zip
+*.tar
+*.rar
+
+# =========================
+# YOLO training outputs
+# =========================
+runs/
+wandb/
+logs/
+
+# =========================
+# Model weights 
+# =========================
+*.pt
+*.onnx
+*.engine
+
+# =========================
+# Images 
+# =========================
+#*.jpg
+#*.png
+#*.jpeg
+#*.mp4
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VSCode / IDE
+# =========================
+.vscode/
+.idea/
