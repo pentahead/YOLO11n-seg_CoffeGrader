@@ -27,6 +27,7 @@ data/
 datasets/
 dataset/
 coffee-beans-dataset-2-(segmentation)-2/
+coffe-sni-clean-1/
 *.zip
 *.tar
 *.rar
