@@ -9,3 +9,5 @@ yolo task=segment mode=train model=yolo11n-seg.pt data=data.yaml epochs=120
 yolo task=segment mode=train model=yolo11n-seg.pt data=data.yaml epochs=100
 ## Train 3
 yolo task=segment mode=train model=yolo11n-seg.pt data=data.yaml epochs=100 augmentaion=true
+
+updated version on commit message
